@@ -5,9 +5,13 @@
 Features
 
 ✅ Automatically communicates with AI Agents on Kite AI Testnet
+
 ✅ Supports multiple AI agents, such as Professor, Crypto Buddy, and Sherlock
+
 ✅ Tracks the latest transactions on testnet.kitescan.ai
+
 ✅ Limits daily interactions to prevent spam
+
 ✅ Uses browser headers to avoid bot detection
 
 𝗥𝗲𝗾𝘂𝗶𝗿𝗲𝗺𝗲𝗻𝘁𝘀
