@@ -2,6 +2,21 @@
 🚀 Kite AI Automation Bot is  automatically interacts with various AI agents on Kite AI Testnet. This bot allows users to receive information from AI based on predefined questions.
 
 
+## Tools and components required
+1. Gokite.ai Account, Register here: [https://testnet.gokite.ai](https://testnet.gokite.ai?r=ag6WZADt)
+2. EVM Wallet Address, Please register using EVM wallet using Avalanche Chain and complete all tasks first!
+
+## Installation
+- Install Python For Windows: [Python](https://www.python.org/ftp/python/3.13.0/python-3.13.0-amd64.exe)
+- For Unix:
+```bash
+apt install python3 python3-pip git -y
+```
+- For Termux:
+```bash
+pkg install python python-pip git -y
+```
+
 Features
 
 ✅ _Automatically communicates with AI Agents on Kite AI Testnet_
