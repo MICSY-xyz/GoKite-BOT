@@ -11,7 +11,7 @@
 pkg install python python-pip git -y
 ```
 
-##Features##
+## Features
 
 ✅ _Automatically communicates with AI Agents on Kite AI Testnet_
 
@@ -24,7 +24,7 @@ pkg install python python-pip git -y
 ✅ _Uses browser headers to avoid bot detection_
 
 
-##How To Use##
+## How To Use
 
 1. Clone this repository:
 ```
@@ -48,7 +48,7 @@ python main.py
 5. The bot will start running and interacting automatically
 
 
-##Notes##
+## Notes
 
 ⚠️ Use this bot responsibly! Do not misuse automation features in violation of Kite AI's terms of use.
 
