@@ -38,9 +38,8 @@ venv\Scripts\activate      # For Windows
 
 
 3. Run the Python script:
-
-[(python main.py)]
-
+      python main.py
+   
 
 4. Enter your Wallet Address when prompted in the terminal
 
