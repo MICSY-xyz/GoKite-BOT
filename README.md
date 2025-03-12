@@ -1,4 +1,4 @@
-# Kite AI Automation Bot
+# 🎯 Kite AI Automation Bot 🎯
 🚀 Kite AI Automation Bot is  automatically interacts with various AI agents on Kite AI Testnet. This bot allows users to receive information from AI based on predefined questions.
 
 
@@ -17,7 +17,7 @@ apt install python3 python3-pip git -y
 pkg install python python-pip git -y
 ```
 
-Features
+##Features##
 
 ✅ _Automatically communicates with AI Agents on Kite AI Testnet_
 
@@ -30,7 +30,7 @@ Features
 ✅ _Uses browser headers to avoid bot detection_
 
 
-**𝗛𝗼𝘄 𝗧𝗼 𝗨𝘀𝗲**
+##How To Use##
 
 1. Clone this repository:
 ```
@@ -56,7 +56,7 @@ python main.py
 5. The bot will start running and interacting automatically
 
 
-**𝗡𝗼𝘁𝗲𝘀**
+##Notes##
 
 ⚠️ Use this bot responsibly! Do not misuse automation features in violation of Kite AI's terms of use.
 
