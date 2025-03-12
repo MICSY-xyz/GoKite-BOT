@@ -491,9 +491,9 @@ def main():
                    {Fore.CYAN}
                    // JOIN DISCUSSION https://t.me/cryptokom1 //
     """
-    print(Fore.RESET + print_banner + Style.RESET_ALL)
+    print(Fore.YELLOW + print_banner + Style.RESET_ALL)
     
-    wallet_address = input(f"{Fore.CYAN}Sekarang, Masukan Wallet Address: {Style.RESET_ALL}")
+    wallet_address = input(f"{Fore.YELLOW}Sekarang, Masukan Wallet Address: {Style.RESET_ALL}")
     
     automation = KiteAIAutomation(wallet_address)
     automation.run()
