@@ -491,7 +491,7 @@ def main():
                    {Fore.CYAN}
                    // JOIN DISCUSSION https://t.me/cryptokom1 //
     """
-    print(Fore.WHITE + print_banner + Style.RESET_ALL)
+    print(Fore.RESET + print_banner + Style.RESET_ALL)
     
     wallet_address = input(f"{Fore.CYAN}Sekarang, Masukan Wallet Address: {Style.RESET_ALL}")
     
