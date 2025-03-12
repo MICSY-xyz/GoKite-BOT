@@ -488,10 +488,10 @@ def main():
 ██║░░██╗██╔══██╗░░╚██╔╝░░██╔═══╝░░░░██║░░░██║░░██║██╔═██╗░██║░░██║██║╚██╔╝██║
 ╚█████╔╝██║░░██║░░░██║░░░██║░░░░░░░░██║░░░╚█████╔╝██║░╚██╗╚█████╔╝██║░╚═╝░██║
 ░╚════╝░╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░░░░░░░╚═╝░░░░╚════╝░╚═╝░░╚═╝░╚════╝░╚═╝░░░░░╚═╝
-                   {Fore.GREEN}
+                   {Fore.CYAN}
                    // JOIN DISCUSSION https://t.me/cryptokom1 //
     """
-    print(Fore.CYAN + print_banner + Style.RESET_ALL)
+    print(Fore.WHITE + print_banner + Style.RESET_ALL)
     
     wallet_address = input(f"{Fore.CYAN}Sekarang, Masukan Wallet Address: {Style.RESET_ALL}")
     
