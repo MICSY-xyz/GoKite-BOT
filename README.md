@@ -7,12 +7,6 @@
 2. EVM Wallet Address, Please register using EVM wallet using Avalanche Chain and complete all tasks first!
 
 ## Installation
-- Install Python For Windows: [Python](https://www.python.org/ftp/python/3.13.0/python-3.13.0-amd64.exe)
-- For Unix:
-```bash
-apt install python3 python3-pip git -y
-```
-- For Termux:
 ```bash
 pkg install python python-pip git -y
 ```
