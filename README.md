@@ -34,15 +34,13 @@ pkg install python python-pip git -y
 
 1. Clone this repository:
 ```
-git clone https://github.com/username/kite-ai-bot.git
-cd kite-ai-bot
+git clone https://github.com/MICSY-xyz/GoKite-BOT.git
+cd GoKite-BOT
 ```
 
-2. Create and activate a virtual environment (optional but recommended):
+2. Install Dependensi:
 ```
-python -m venv venv
-source venv/bin/activate   # For macOS/Linux
-venv\Scripts\activate      # For Windows
+pip install -r requirements.txt
 ```
 
 3. Run the Python script:
