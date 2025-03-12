@@ -478,8 +478,8 @@ class KiteAIAutomation:
 def main():
     print_banner = """
 
-█▄▀ █ ▀█▀ █▀▀   ▄▀█ █
-█░█ █ ░█░ ██▄   █▀█ █
+                          █▄▀ █ ▀█▀ █▀▀   ▄▀█ █
+                          █░█ █ ░█░ ██▄   █▀█ █
 
 ░█████╗░██████╗░██╗░░░██╗██████╗░████████╗░█████╗░██╗░░██╗░█████╗░███╗░░░███╗
 ██╔══██╗██╔══██╗╚██╗░██╔╝██╔══██╗╚══██╔══╝██╔══██╗██║░██╔╝██╔══██╗████╗░████║
@@ -487,10 +487,11 @@ def main():
 ██║░░██╗██╔══██╗░░╚██╔╝░░██╔═══╝░░░░██║░░░██║░░██║██╔═██╗░██║░░██║██║╚██╔╝██║
 ╚█████╔╝██║░░██║░░░██║░░░██║░░░░░░░░██║░░░╚█████╔╝██║░╚██╗╚█████╔╝██║░╚═╝░██║
 ░╚════╝░╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░░░░░░░╚═╝░░░░╚════╝░╚═╝░░╚═╝░╚════╝░╚═╝░░░░░╚═╝
+                     // JOIN DISCUSSION https://t.me/cryptokom1 //
     """
     print(Fore.CYAN + print_banner + Style.RESET_ALL)
     
-    wallet_address = input(f"{Fore.YELLOW}Join Grub Diskusi {Fore.GREEN}https://t.me/cryptokom1\n\nSekarang, Masukan Wallet Address: {Style.RESET_ALL}")
+    wallet_address = input(f"{Fore.GREEN}https://t.me/cryptokom1\n\nSekarang, Masukan Wallet Address: {Style.RESET_ALL}")
     
     automation = KiteAIAutomation(wallet_address)
     automation.run()
