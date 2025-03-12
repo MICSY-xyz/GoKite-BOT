@@ -24,18 +24,18 @@ Required Python modules:
 
 How to Use
 
-1. Clone or download this repository:
-
+1. Clone this repository:
+```
 git clone https://github.com/username/kite-ai-bot.git
 cd kite-ai-bot
-
+```
 
 2. Create and activate a virtual environment (optional but recommended):
-
+```
 python -m venv venv
 source venv/bin/activate   # For macOS/Linux
 venv\Scripts\activate      # For Windows
-
+```
 
 3. Run the Python script:
 ```
