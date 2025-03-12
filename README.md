@@ -10,7 +10,7 @@ Features
 ✅ Limits daily interactions to prevent spam
 ✅ Uses browser headers to avoid bot detection
 
-##Requirements
+𝗥𝗲𝗾𝘂𝗶𝗿𝗲𝗺𝗲𝗻𝘁𝘀
 
 Before running the bot, ensure you have the following dependencies installed:
 
@@ -21,7 +21,7 @@ Required Python modules:
 [pip install requests colorama]
 
 
-##How to Use
+𝗛𝗼𝘄 𝗧𝗼 𝗨𝘀𝗲
 
 1. Clone this repository:
 ```
@@ -47,7 +47,7 @@ python main.py
 5. The bot will start running and interacting automatically
 
 
-Notes
+𝗡𝗼𝘁𝗲𝘀
 
 ⚠️ Use this bot responsibly! Do not misuse automation features in violation of Kite AI's terms of use.
 
