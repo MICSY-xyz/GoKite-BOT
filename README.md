@@ -1,7 +1,6 @@
 # Kite AI Automation Bot
 🚀 Kite AI Automation Bot is  automatically interacts with various AI agents on Kite AI Testnet. This bot allows users to receive information from AI based on predefined questions.
 
-Kite AI Automation Bot
 
 Features
 
@@ -11,7 +10,7 @@ Features
 ✅ Limits daily interactions to prevent spam
 ✅ Uses browser headers to avoid bot detection
 
-Requirements
+##Requirements
 
 Before running the bot, ensure you have the following dependencies installed:
 
@@ -22,7 +21,7 @@ Required Python modules:
 [pip install requests colorama]
 
 
-How to Use
+##How to Use
 
 1. Clone this repository:
 ```
@@ -47,14 +46,6 @@ python main.py
 
 5. The bot will start running and interacting automatically
 
-
-
-Project Structure
-
-/kite-ai-bot
-│-- main.py           # Main script to run the bot
-│-- .gitignore        # File to exclude certain files from Git
-│-- README.md         # Project documentation
 
 Notes
 
