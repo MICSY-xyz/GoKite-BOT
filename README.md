@@ -4,17 +4,13 @@
 
 Features
 
-✅ Automatically communicates with AI Agents on Kite AI Testnet
+✅ _Automatically communicates with AI Agents on Kite AI Testnet_
+✅ _Supports multiple AI agents, such as Professor, Crypto Buddy, and Sherlock_
+✅ _Tracks the latest transactions on testnet.kitescan.ai_
+✅ _Limits daily interactions to prevent spam_
+✅ _Uses browser headers to avoid bot detection_
 
-✅ Supports multiple AI agents, such as Professor, Crypto Buddy, and Sherlock
-
-✅ Tracks the latest transactions on testnet.kitescan.ai
-
-✅ Limits daily interactions to prevent spam
-
-✅ Uses browser headers to avoid bot detection
-
-𝗥𝗲𝗾𝘂𝗶𝗿𝗲𝗺𝗲𝗻𝘁𝘀
+**𝗥𝗲𝗾𝘂𝗶𝗿𝗲𝗺𝗲𝗻𝘁𝘀**
 
 Before running the bot, ensure you have the following dependencies installed:
 
@@ -25,7 +21,7 @@ Required Python modules:
 [pip install requests colorama]
 
 
-𝗛𝗼𝘄 𝗧𝗼 𝗨𝘀𝗲
+**𝗛𝗼𝘄 𝗧𝗼 𝗨𝘀𝗲**
 
 1. Clone this repository:
 ```
@@ -51,7 +47,7 @@ python main.py
 5. The bot will start running and interacting automatically
 
 
-𝗡𝗼𝘁𝗲𝘀
+**𝗡𝗼𝘁𝗲𝘀**
 
 ⚠️ Use this bot responsibly! Do not misuse automation features in violation of Kite AI's terms of use.
 
